@@ -1,3 +1,3 @@
-# Zweihander
+# Hallucinations
 
-Zweihander will be a website to download comics.
+Hallucinations will be a website to download comics.
